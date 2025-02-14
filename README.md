@@ -1,6 +1,5 @@
 # ¡Hola! Soy Jair Stick Acosta 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Tu%20Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](Tu_URL_de_Linkedin)
 [![Linkedin Badge](https://img.shields.io/badge/-Tu%20Linkedin-blue?style=flat&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/jair-acosta/
 
 ## 🌱 Actualmente estoy aprendiendo
