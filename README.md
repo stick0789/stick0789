@@ -1,16 +1,41 @@
-## Hi there 👋
+# ¡Hola! Soy Jair Stick Acosta 👋
 
-<!--
-**stick0789/stick0789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Tu%20Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](Tu_URL_de_Linkedin)
+[![Linkedin Badge](https://img.shields.io/badge/-Tu%20Linkedin-blue?style=flat&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/jair-acosta/
 
-Here are some ideas to get you started:
+## 🌱 Actualmente estoy aprendiendo
+- C
+- Ethical Hacking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Herramientas y Tecnologías
+- Lenguajes de programación: 
+  - PHP, .Net, Python, JavaScript, Java, C#
+- Frameworks y librerías:
+  - Angular, Codeigniter, Flask, Bootstrap
+- Base de datos:
+  - MySQL, PostgreSQL, SQLServer
+- Herramientas y otros:
+  - Git, Visual Studio, HTML5, CSS
+
+## 📈 Mi Actividad en GitHub
+
+- 🔭 Actualmente trabajando en: Fractol - Pipex 
+- 🌱 Aprendiendo más sobre: Ciberseguridad
+- 🤔 Buscando ayuda con: Ethical Hacking
+- 💬 Pregúntame sobre: SQL, Desarrollo Web, Ciberseguridad
+- ⚡ Fun fact: ¡¡QUE VIVA EL CAFE!!
+
+### Mis Repositorios más Populares
+
+Libft - https://github.com/stick0789/Libft 
+Mi primera libreria en C, introducción y funciones basicas en C.
+
+PushSwap - https://github.com/stick0789/pushSwap
+Ordenamiento de listas usando el algoritmo Radix.
+
+---
+
+Gracias por visitar mi perfil. ¡Si tienes alguna pregunta, no dudes en contactarme! 🚀
+
+
+
