@@ -18,7 +18,7 @@
 
 ## 📈 Mi Actividad en GitHub
 
-- 🔭 Actualmente trabajando en: Fractol - Pipex 
+- 🔭 Actualmente trabajando en: miniRT - C++ Modulos - NetPractice 
 - 🌱 Aprendiendo más sobre: Ciberseguridad
 - 🤔 Buscando ayuda con: Ethical Hacking
 - 💬 Pregúntame sobre: SQL, Desarrollo Web, Ciberseguridad
