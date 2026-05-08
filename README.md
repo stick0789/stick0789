@@ -33,9 +33,8 @@ Tras años construyendo aplicaciones como desarrollador Fullstack, decidí dar u
 ---
 
 ## 🔭 Proyectos Actuales (42 Barcelona)
-* **miniRT:** Desarrollo de un motor de renderizado en C.
-* **C++ Modules:** Profundizando en la programación orientada a objetos segura.
-* **NetPractice:** Entrenamiento intensivo en configuración de redes y protocolos.
+* **Webserv:** Desarrollo de un servidor HTTP/1.1 en C++, profundizando en la gestión de sockets y protocolos de red.
+* **C++ Modules:** Profundizando en la programación orientada a objetos segura y gestión avanzada de memoria.
 
 ---
 
