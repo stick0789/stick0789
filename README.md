@@ -1,39 +1,39 @@
 # Hola! Soy Jair Stick Acosta 👋 
 ### Software Engineer | Cybersecurity Specialist & Penetration Tester
 
-[cite_start]Ingeniero de Software con más de dos años de experiencia en desarrollo Fullstack[cite: 8, 28]. [cite_start]Actualmente, estoy pivotando mi carrera hacia la **Ciberseguridad**, combinando mi base sólida en desarrollo con técnicas avanzadas de auditoría y defensa[cite: 9, 10].
+[cite_start]Ingeniero de Software con más de dos años de experiencia en desarrollo Fullstack.Actualmente, estoy pivotando mi carrera hacia la **Ciberseguridad**, combinando mi base sólida en desarrollo con técnicas avanzadas de auditoría y defensa.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jair-acosta/)
 
 ---
 
 ## 🛡️ Mi Transición: Del Código a la Seguridad
-Tras años construyendo aplicaciones como desarrollador Fullstack, decidí dar un paso adelante para protegerlas. [cite_start]Mi enfoque actual une la **Seguridad by Design** con la fase ofensiva, asegurando que cada línea de código sea tan robusta como funcional[cite: 39, 40].
+Tras años construyendo aplicaciones como desarrollador Fullstack, decidí dar un paso adelante para protegerlas. Mi enfoque actual une la **Seguridad by Design** con la fase ofensiva, asegurando que cada línea de código sea tan robusta como funcional.
 
-* [cite_start]**Formación Actual:** Especializándome en **42 Barcelona** y cursando el **Máster en Ciberseguridad y Privacidad (UOC)**.
-* [cite_start]**Próximo Objetivo:** Obtención del **CEH (Certified Ethical Hacker)**[cite: 25].
+* **Formación Actual:** Especializándome en **42 Barcelona** y cursando el **Máster en Ciberseguridad y Privacidad (UOC)**.
+* **Próximo Objetivo:** Obtención del **CEH (Certified Ethical Hacker)**
 
 ---
 
 ## 🔧 Stack Técnico de Ciberseguridad
 
 ### 🛠️ Herramientas de Auditoría y Pentesting
-* [cite_start]**Análisis de Red & Escaneo:** Wireshark, Nmap, Nessus, Snort.
-* [cite_start]**Explotación & Recolección:** Metasploit, Maltego.
-* [cite_start]**Habilidades Ofensivas:** Ethical Hacking, SQL Injection, Criptografía, OSINT[cite: 21, 25].
+* **Análisis de Red & Escaneo:** Wireshark, Nmap, Nessus, Snort.
+* **Explotación & Recolección:** Metasploit, Maltego.
+* **Habilidades Ofensivas:** Ethical Hacking, SQL Injection, Criptografía, OSINT.
 
 ### 📜 Normativas y Frameworks
-* [cite_start]Cumplimiento de estándares: **OWASP**, ISO 27001, NIST y RGPD.
+* Cumplimiento de estándares: **OWASP**, ISO 27001, NIST y RGPD.
 
 ### 💻 Desarrollo Seguro (Fullstack)
-* [cite_start]**Lenguajes:** C/C++, Python, C#, PHP, Java, JavaScript[cite: 18, 33].
-* [cite_start]**Seguridad en Cloud:** Implementación de WAF, escaneo SAST/DAST y pipelines CI/CD seguros[cite: 36, 40].
-* [cite_start]**Bases de Datos:** SQL Server, MySQL, PostgreSQL[cite: 20].
+* **Lenguajes:** C/C++, Python, C#, PHP, Java, JavaScript.
+* **Seguridad en Cloud:** Implementación de WAF, escaneo SAST/DAST y pipelines CI/CD seguros.
+* **Bases de Datos:** SQL Server, MySQL, PostgreSQL.
 
 ---
 
 ## 🔭 Proyectos Actuales (42 Barcelona)
-* [cite_start]**miniRT:** Desarrollo de un motor de renderizado en C[cite: 33].
+* **miniRT:** Desarrollo de un motor de renderizado en C.
 * **C++ Modules:** Profundizando en la programación orientada a objetos segura.
 * **NetPractice:** Entrenamiento intensivo en configuración de redes y protocolos.
 
@@ -47,8 +47,8 @@ Tras años construyendo aplicaciones como desarrollador Fullstack, decidí dar u
 ---
 
 ## 📂 Repositorios Destacados
-* [cite_start][**Libft**](https://github.com/stick0789/Libft): Mi propia librería base en C, enfocada en la gestión eficiente de memoria[cite: 33].
-* [cite_start][**PushSwap**](https://github.com/stick0789/pushSwap): Optimización de algoritmos de ordenamiento mediante Radix[cite: 33].
+* [**Libft**](https://github.com/stick0789/Libft): Mi propia librería base en C, enfocada en la gestión eficiente de memoria.
+* [**PushSwap**](https://github.com/stick0789/pushSwap): Optimización de algoritmos de ordenamiento mediante Radix.
 
 ---
 ¡Gracias por visitar mi perfil! Si buscas fortalecer la seguridad de tus proyectos o colaborar en ciberseguridad, hablemos. 🚀
